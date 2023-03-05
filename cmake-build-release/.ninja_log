@@ -1,0 +1,22 @@
+# ninja log v5
+29	1966	6956713348043431	CMakeFiles/untitled.dir/tiny_obj_loader.cpp.obj	4519c9fc130c1265
+34	768	6956713335979213	CMakeFiles/untitled.dir/Window.cpp.obj	539829ebe6c6b2e7
+2	671	6957314050874816	CMakeFiles/untitled.dir/Camera.cpp.obj	1f0e15df838d1b2e
+32	864	6956713337016432	CMakeFiles/untitled.dir/stb_image.cpp.obj	c9f42d88c8ae1496
+1	914	6956713337564959	CMakeFiles/untitled.dir/Shader.cpp.obj	1683ea31ee244eb0
+11	1186	6956713340177965	CMakeFiles/untitled.dir/Mesh.cpp.obj	14ff4ea3fdb23b32
+1	1384	6957816820160078	CMakeFiles/untitled.dir/main.cpp.obj	e8c0e635977caa34
+8	1726	6956713345614127	CMakeFiles/untitled.dir/Model3D.cpp.obj	2fca332293189526
+1384	1843	6957816824770309	untitled.exe	69ae50512fdbeb05
+1	88	6957877467293963	build.ninja	f129d7ee25b6edd5
+26	1218	6956713340584997	CMakeFiles/untitled.dir/SkyBox.cpp.obj	f25fce311b396254
+32	1084	6957877496541046	CMakeFiles/untitled.dir/Window.cpp.obj	539829ebe6c6b2e7
+38	1112	6957877496841094	CMakeFiles/untitled.dir/stb_image.cpp.obj	c9f42d88c8ae1496
+12	1294	6957877498660902	CMakeFiles/untitled.dir/Shader.cpp.obj	1683ea31ee244eb0
+8	1373	6957877499480246	CMakeFiles/untitled.dir/Camera.cpp.obj	1f0e15df838d1b2e
+26	1661	6957877502196917	CMakeFiles/untitled.dir/SkyBox.cpp.obj	f25fce311b396254
+5	1802	6957877503583205	CMakeFiles/untitled.dir/Mesh.cpp.obj	14ff4ea3fdb23b32
+1	2295	6957877508700154	CMakeFiles/untitled.dir/Model3D.cpp.obj	2fca332293189526
+44	2588	6957877511552532	CMakeFiles/untitled.dir/tiny_obj_loader.cpp.obj	4519c9fc130c1265
+17	2655	6957877512290546	CMakeFiles/untitled.dir/main.cpp.obj	e8c0e635977caa34
+2656	2946	6957877515222723	untitled.exe	69ae50512fdbeb05

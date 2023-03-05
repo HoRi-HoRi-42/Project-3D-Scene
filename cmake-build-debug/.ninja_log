@@ -1,0 +1,12 @@
+# ninja log v5
+4	637	6953350492137064	CMakeFiles/untitled.dir/Shader.cpp.obj	75a5d2c3816bfffa
+9	982	6953350495590921	CMakeFiles/untitled.dir/Model3D.cpp.obj	2dd08184c0576f50
+2	1653	6955877928702662	CMakeFiles/untitled.dir/main.cpp.obj	196af0a1258361cd
+23	347	6953350489224845	CMakeFiles/untitled.dir/stb_image.cpp.obj	b9caf6184bbe5ebe
+12	874	6953350494483892	CMakeFiles/untitled.dir/Mesh.cpp.obj	64c2ae67402fae39
+7	594	6953350491708218	CMakeFiles/untitled.dir/Camera.cpp.obj	ee2f154a1e7c1b93
+26	610	6953350491867789	CMakeFiles/untitled.dir/Window.cpp.obj	fec3694f00599de5
+16	964	6953350495371516	CMakeFiles/untitled.dir/tiny_obj_loader.cpp.obj	77e855f09f364b7f
+1653	3644	6955877945466813	untitled.exe	8f8b5b959c6d6b27
+0	8	0	clean	ed1672674f5755ae
+1	769	6953351793930072	CMakeFiles/untitled.dir/SkyBox.cpp.obj	c507712f4874e379

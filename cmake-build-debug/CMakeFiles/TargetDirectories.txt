@@ -1,0 +1,3 @@
+I:/codaer/an3/pg/priect/OpenGL_Project_Core/cmake-build-debug/CMakeFiles/untitled.dir
+I:/codaer/an3/pg/priect/OpenGL_Project_Core/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/codaer/an3/pg/priect/OpenGL_Project_Core/cmake-build-debug/CMakeFiles/rebuild_cache.dir
